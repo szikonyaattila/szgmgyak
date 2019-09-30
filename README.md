@@ -1,0 +1,2 @@
+# szgmgyak
+gyak_linux
